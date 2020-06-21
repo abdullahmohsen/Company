@@ -7,14 +7,14 @@ Using the 2 classes we created, build an application that should be able to do t
           * DepID
           * Manager_Name
     2. Add new employee and assign him/her to a department:
-          * Name Employee:
+          * New Employee:
                - Name
                - Salary
                - Age
           * Assign to department:
-               - DepId
+               - Department Id
     3. Change department of employee:
           * Employee Name
-          * DepID
-    4. Print report for every department (#employees).
+          * Department ID
+    4. Print report for every department with employees.
     5. Close program.
