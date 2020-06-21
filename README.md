@@ -1,6 +1,7 @@
 # Company's project C++
  
  Using the 2 classes we created, build an application that should be able to do the following:
+ 
    0- Select option from 1 to 5
    1. Add new department:
         * Name
