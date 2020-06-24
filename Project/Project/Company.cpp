@@ -1,5 +1,6 @@
 #include "Company.h"
 
+//Constructor - Initialization List
 Company::Company() : numberOfEmployees(0), numberOfDepartments(0)
 {
 }
