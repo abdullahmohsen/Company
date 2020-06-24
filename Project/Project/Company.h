@@ -15,7 +15,7 @@ private:
 	Department departments[100];
 
 public:
-	Company();
+	Company(); //Constructor
 	void addDepartment();
 	void addEmployee();
 	void changeDepartmentOfEmployee();
